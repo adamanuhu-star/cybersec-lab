@@ -1,4 +1,4 @@
-&lt;div align="center"&gt;
+
 
 # 🔐 CyberSec Lab
 
@@ -9,7 +9,7 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Site-ea4aaa?style=for-the-badge)](https://adamanuhu-star.github.io/cybersec-lab/)
 [![License](https://img.shields.io/badge/License-MIT-d29922?style=for-the-badge)](LICENSE)
 
-&lt;/div&gt;
+
 
 ---
 
